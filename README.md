@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IDassow
-- 👀 I’m interested in gameDev and VR
+- 👀 I’m interested in 3D graphics, VR, and backend
 - 🌱 I’m currently learning Java, JS, C++, C#, python
 - 💞️ I’m looking to collaborate on 3D graphics
 - 📫 How to reach me ...
